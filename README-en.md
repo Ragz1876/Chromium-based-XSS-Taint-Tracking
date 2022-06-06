@@ -105,3 +105,4 @@ Sink:HTMLLIElement.className  divided by colon, represents the termination of th
 **Note** common properties/methods such as location.href, settimeout and alert are not listed above because they just simply use their full names.  
 # Disclaimer  
 The Cyclops can only be used in the safety construction of enterprises with sufficient legal authorization. During the use of the Cyclops, you should ensure that all your actions comply with local laws and regulations. If you have any illegal behavior in the process of using this tool, you will bear all the consequences yourself, and all developers and all contributors of this tool will not bear any legal and joint liability.
+5
